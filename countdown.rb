@@ -11,7 +11,6 @@ return "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(x)
-def countdown(x)
 x = 10
 time = Time.now
 sleep 5
