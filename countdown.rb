@@ -2,6 +2,7 @@
 
 def countdown(x)
 x = 10
+sleep 5
 while x > 0
   puts "#{x} SECOND(S)!"
   x = x-1
